@@ -90,4 +90,8 @@ O frontend deve buscar informações do servidor via api e no protocolo HTTP.
 
 1. Precisa baixar as bibliotecas: Arduino Json, DHT11 e Ardafruit Sensor.
 
+--- Link do Ardafruit: https://github.com/adafruit/Adafruit_Sensor
+
+-- link do DTH11: https://github.com/adafruit/DHT-sensor-library 
+
 ### É importante relembrar que na simualção, utilizamos o sensor LDR para simular o sensor MQ-135. Também não dispusemos dos sensores NEO 6M, ESP-01.
