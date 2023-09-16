@@ -85,3 +85,9 @@ O Cadastro será validado para confirmar a existência da autoridade.
 
 2. O Arduino deve se comunicar com a api via protocolo http, para assim enviar os dados para o backend. 
 O frontend deve buscar informações do servidor via api e no protocolo HTTP.
+
+## Para fazer funcionar
+
+1. Precisa baixar as bibliotecas: Arduino Json, DHT11 e Ardafruit Sensor.
+
+### É importante relembrar que na simualção, utilizamos o sensor LDR para simular o sensor MQ-135. Também não dispusemos dos sensores NEO 6M, ESP-01.
